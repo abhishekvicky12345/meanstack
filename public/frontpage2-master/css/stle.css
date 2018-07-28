@@ -1,0 +1,28 @@
+body{
+    background-image: url(../Image/ibm.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 700px;
+}
+.container{
+    text-align: center;
+    margin:50px 150px;
+}
+#registration{
+width: 100%;   
+background-color: #1B404D;
+opacity: 0.8
+padding: 10px 50px;
+}
+#button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+
+#butt{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
