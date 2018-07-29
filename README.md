@@ -1,13 +1,12 @@
 # meanstack
 Meanstack
 
-
-1).Install nodejs in your computer.
-2).create a folder In any drive ( preferable in c ).
-3).Now in that folder create a server.js file .
-4).Now install npm install express to create a server for our web application through command
+<li>1).Install nodejs in your computer.</li>
+2)create a folder In any drive ( preferable in c ).
+#3).Now in that folder create a server.js file .
+#4).Now install npm install express to create a server for our web application through command
 prompt .
-5).Now install Angularjs and Bootstrap for styling and scripting .
+#5).Now install Angularjs and Bootstrap for styling and scripting .
 6).Create a public name (not necessarily) folder where server.js file is present on that folder create
 an html file.
 7).Now download mongodb in your PC .
